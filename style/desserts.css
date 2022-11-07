@@ -1,0 +1,124 @@
+#logo{
+	background-image: url(../pics/logobanner.png);
+	background-repeat: no-repeat;
+	width: 900px;
+	height:113px;
+	float: left;
+	display: inline-block;
+}
+
+#navigator{
+  list-style-type: none;
+  overflow: hidden;
+  background-color: #6F4E37	;
+  display:inline-block;
+  font-family: Century Schoolbook;
+  width:900px;
+}
+
+#navigator a{
+	float: left;
+	color: white;
+	
+	text-align: center;
+	padding: 13px 55px;
+	text-decoration: none;
+	display: inline-block;
+}
+
+#navigator a:hover{
+	background-color: #7B3F00	;
+	color: gold;
+}
+
+
+#banner{
+	background-image: url(../pics/banner.png);
+	background-repeat: no-repeat;
+	width:800px;
+	height:117px;
+	float: left;
+	display: inline-block;
+}
+
+.content{
+	background-image: url(../pics/bodybg.jpg);
+	background-repeat: no-repeat;
+	width: 1030px;
+	height: 450px;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	display: inline-block;
+	float: left;
+}
+
+h1 {
+	text-align: left;
+	font-size:50;
+	font-family: Monotype Corsiva;
+	margin-left: 65px;
+	margin-top: 50px;
+	color: white;
+}
+
+
+#line{
+	background-color:black;
+	height: 20px;
+	width: 900px;
+	margin: 0;
+	padding: 0;
+	display:inline-block;
+	float: left;
+}
+
+.content2{
+	background-image: url(../pics/bodybg.jpg);
+	background-repeat: no-repeat;
+	display: inline-block;	
+	width: 2000px;
+	height: 600px;
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+p {
+	font-size: 30;
+	font-family: Monotype Corsiva;
+	color: white;
+	text-align: center;
+}
+
+#bread{
+	margin-top: 25px;
+	margin-left: 25px;
+}
+
+#tinapay{
+	margin-top: 25px;
+	margin-right: 1135px;
+}
+
+#footer{
+	background-image: url(../pics/footer.png);
+	background-repeat: no-repeat;
+	width: 900px;
+	height: 113px;
+	padding: 20px;
+	display: inline-block;
+	float: left;
+	margin-right:100px;
+}
+
+#wrapper {
+	margin: auto;
+	width: 900px;
+	height: 1065px;
+	padding: 20px;
+	background-image: url(../pics/bg.jpg);
+}
+
+body{
+	background-image: url(../pics/wrapper.jpg);
